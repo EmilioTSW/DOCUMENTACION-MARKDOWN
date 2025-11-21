@@ -1,26 +1,40 @@
+# documentacion-ejercicios
 # Tecnológico de Software
 ## Materia: Fundamentos de álgebra
-## Alumno: Jorge Emilio Batun Alcocer 
-## Actividad \#20 - 
+## Alumno: Batun Alcocer Jorge Emilio
+## Actividad \#20 - documentacion
 
 ---
 
-Objetivo - Documentar el excel 
+Documentar el excel
+
 ---
 
-EJEMPLO DE COMO DOCUMENTAR CODIGO
+Ejemplo de como documentar el codigo:
+
 ```java
-public class Helloworld;
-  public static void main (string args){
-    System.out.prinln ("hola mundo")
-    
+public class HelloWorld;
+public static void main(string[] args){
+  System.out.println("Hello word");
+}
 ```
-``` Excel
-=trasponer (kermit !A1:AD30)
+```excel
+=TRANSPONER(pagina1!A1:AD30)
 ```
-EJEMPLO DE MATRIZ
- | | | |
+
+ejemplo matriz 
+
+| | | |
 |---|---|---|
-|1|2|3|
+|1|2|3|1
 |a|b|c|
 |x|y|z|
+
+1. Como programar la hoja de excel.
+2. Escribir las 5 matrices (30x30).
+3. Documentar la formula de la transpuesta.
+4. Documentar la formula de la suma.
+5. Documentar la formula de la resta.
+6. Documentar la formula de la multiplicación escalar.
+7. Docuementar la composición.
+8. Ser feliz.
