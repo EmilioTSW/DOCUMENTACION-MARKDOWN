@@ -3,6 +3,7 @@
 ## Materia: Fundamentos de álgebra
 ## Alumno: Batun Alcocer Jorge Emilio
 ## Actividad \#20 - documentacion
+## Objetivo: la idea de este documento es aprender a usar GitHub y a manejar matrices para poder armar imágenes con puros numeritos. También veremos cómo jugar con esas matrices para hacer que las imágenes se vean, volteadas, giradas y con varios efectos más, básicamente, es para entender cómo las matrices pueden servir para crear y modificar dibujos de una forma sencilla y divertida.
 
 ---
 
